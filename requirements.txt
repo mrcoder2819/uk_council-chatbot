@@ -1,8 +1,12 @@
 streamlit
+google-genai
+python-dotenv
+
 langchain>=0.2.0
 langchain-community>=0.2.0
 langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
+
 chromadb
 sentence-transformers
 rank_bm25
-python-dotenv
